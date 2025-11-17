@@ -24,28 +24,28 @@ This document organizes all visual assets needed for the landing page, grouped b
 | Aspect | Details |
 |--------|---------|
 | **Description** | Golden hour light hitting a riad rooftop with ocean in background. Should feel aspirational and calm. |
-| **Recommended Sources** | Unsplash: "sunset ocean" + "morocco sunset" + "riad rooftop" |
+| **Recommended Links** | 1. https://unsplash.com/s/photos/rooftop-sunset<br>2. https://unsplash.com/s/photos/golden-hour-beach<br>3. https://unsplash.com/s/photos/golden-sunset<br>4. https://pixabay.com/images/search/rooftop%20terrace/<br>5. https://unsplash.com/s/photos/morocco |
 | **Alternative** | Instagram: @riadayour, @amayoursurf, @flosurfmorocco |
 | **Why It Matters** | Sets the tone: luxury, peace, escape, location beauty |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### HERO 1B: Group on Rooftop - Candid, Laughing, Connection
 | Aspect | Details |
 |--------|---------|
 | **Description** | 4-6 diverse people on a rooftop terrace, relaxed, genuine laughter. Ocean/sunset in background. (Can be from any retreat operator) |
-| **Recommended Sources** | Instagram retreat accounts: @amayoursurf, @flosurfmorocco, @coworksurf lifestyle photos |
-| **Alternative** | Unsplash: "group retreat", "people on rooftop", "team gathering" |
+| **Recommended Links** | 1. https://unsplash.com/photos/group-of-happy-friends-having-party-on-rooftop-zeeCFxWPcnU<br>2. https://unsplash.com/photos/group-of-happy-friends-having-party-and-fun-on-rooftop-FQZ9NtEl5xs<br>3. https://unsplash.com/s/photos/rooftop-party<br>4. https://unsplash.com/s/photos/rooftop-terrace<br>5. https://unsplash.com/photos/z2aD9YOAzJ4 |
+| **Alternative** | Instagram: @amayoursurf, @flosurfmorocco, @coworksurf lifestyle photos |
 | **Why It Matters** | Humanizes the retreat. Shows community before diving into narrative. "20 people" feeling. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### HERO 1C: Ocean Waves - Action/Energy
 | Aspect | Details |
 |--------|---------|
 | **Description** | Beautiful Moroccan wave (Taghazout/Tamraght area). Clear water, good light. Empty beach or with 1-2 surfers. Not crowded. |
-| **Recommended Sources** | Unsplash: "surfing", "morocco waves", "beach waves" |
-| **Alternative** | Pexels: "ocean" + "surfing" |
+| **Recommended Links** | 1. https://unsplash.com/s/photos/surfing<br>2. https://www.pexels.com/photo/people-surfing-on-sea-waves-4319752/<br>3. https://www.pexels.com/photo/man-surfing-on-waves-390051/<br>4. https://pixabay.com/images/search/waves/<br>5. https://www.pexels.com/search/surfing%20wave/ |
+| **Alternative** | Instagram: @flosurfmorocco, @amayoursurf (action shots) |
 | **Why It Matters** | Communicates action, adventure, the "SURF" part of Surf+AI. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ---
 
@@ -56,28 +56,28 @@ This document organizes all visual assets needed for the landing page, grouped b
 | Aspect | Details |
 |--------|---------|
 | **Description** | Wide shot of Taghazout coastline or Tamraght village. Shows geography, beauty, authenticity. Can be from cliff view or beach. |
-| **Recommended Sources** | Unsplash: "taghazout", "morocco coast", "coastal town" |
+| **Recommended Links** | 1. https://unsplash.com/s/photos/morocco-beach<br>2. https://unsplash.com/s/photos/coastal-landscape<br>3. https://pixabay.com/videos/morocco-sea-beach-rocks-ocean-31925/<br>4. https://unsplash.com/s/photos/beach-waves<br>5. https://unsplash.com/s/photos/ocean-landscape |
 | **Alternative** | Pexels: "beach town", "coastal village" |
 | **Why It Matters** | Grounds the story in place. Shows "where Reda grew up." Authentic location. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### STORY 2B: Traditional Riad Courtyard - Symmetry & Culture
 | Aspect | Details |
 |--------|---------|
 | **Description** | Classic riad interior courtyard: central fountain, zellige tiles, arches, natural light from above. Should feel welcoming, cultured, peaceful. |
-| **Recommended Sources** | Unsplash: https://unsplash.com/s/photos/marrakech-riad |
+| **Recommended Links** | 1. https://unsplash.com/photos/a-beautiful-moroccan-style-building-surrounds-a-pool-Md-eivIrVLU<br>2. https://unsplash.com/photos/iwe7ebNPJBA<br>3. https://unsplash.com/s/photos/marrakech-riad<br>4. https://unsplash.com/s/photos/pool-house<br>5. https://unsplash.com/photos/blue-swimming-pool-lBPwkc0g3Bo |
 | **Alternative** | Pexels: "riad", "moroccan courtyard" |
 | **Why It Matters** | Reinforces "Moroccan culture immersion." Shows what a riad is for unfamiliar readers. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### STORY 2C: Local Market/Souk - Authenticity & Culture
 | Aspect | Details |
 |--------|---------|
 | **Description** | Colorful Moroccan market scene: spices, textiles, locals, narrow alleyways. Natural, authentic feel. |
-| **Recommended Sources** | Unsplash: "moroccan market", "souk", "medina" |
+| **Recommended Links** | 1. https://unsplash.com/s/photos/moroccan-culture<br>2. https://unsplash.com/s/photos/market<br>3. https://unsplash.com/s/photos/souk<br>4. https://unsplash.com/s/photos/medina<br>5. https://pixabay.com/images/search/market/ |
 | **Alternative** | Pexels: "market", "moroccan culture" |
 | **Why It Matters** | Supports "Moroccan culture immersion" promise. Shows Reda's world/expertise. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ---
 
@@ -88,55 +88,55 @@ This document organizes all visual assets needed for the landing page, grouped b
 | Aspect | Details |
 |--------|---------|
 | **Description** | Beautiful interior pool inside a riad. Zellige tiles, natural light, luxurious feel. No people or 1-2 people lounging peacefully. |
-| **Recommended Sources** | Unsplash: https://unsplash.com/s/photos/marrakech-riad (filter for pools) |
+| **Recommended Links** | 1. https://unsplash.com/s/photos/marrakech-riad<br>2. https://unsplash.com/photos/blue-swimming-pool-lBPwkc0g3Bo<br>3. https://unsplash.com/s/photos/indoor-pool<br>4. https://unsplash.com/s/photos/luxury-pool<br>5. https://unsplash.com/photos/iwe7ebNPJBA |
 | **Alternative** | Instagram: @riadayour, luxury riad hashtags #riadzelig #riadpool |
 | **Why It Matters** | Delivers the "luxury base" promise visually. Shows 2 pools feature. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### LOCKED IN 3B: External Pool - Afternoon/Golden Hour
 | Aspect | Details |
 |--------|---------|
 | **Description** | Outdoor pool with lounge chairs. Ocean view or mountain backdrop preferred. Golden hour light. Inviting, relaxation-focused. |
-| **Recommended Sources** | Unsplash: https://unsplash.com/s/photos/luxury-pool |
+| **Recommended Links** | 1. https://unsplash.com/s/photos/luxury-pool<br>2. https://unsplash.com/s/photos/pool-house<br>3. https://unsplash.com/s/photos/swimming-pool<br>4. https://unsplash.com/s/photos/rooftop-terrace<br>5. https://pixabay.com/images/search/rooftop%20terrace/ |
 | **Alternative** | Instagram: @amayoursurf, @flosurfmorocco (look for pool lounging shots) |
 | **Why It Matters** | Shows the second pool. Relaxation/recovery after activities. Luxury feeling. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### LOCKED IN 3C: Rooftop Terrace - Chill Space
 | Aspect | Details |
 |--------|---------|
 | **Description** | Rooftop area with cushions, low seating, ocean or sunset view. People lounging, drinking tea/coffee. Relaxed atmosphere. |
-| **Recommended Sources** | Instagram: @riadayour, @coworksurf, @amayoursurf (rooftop lounging scenes) |
-| **Alternative** | Unsplash: "rooftop terrace", "rooftop lounge morocco" |
+| **Recommended Links** | 1. https://unsplash.com/s/photos/rooftop-terrace<br>2. https://unsplash.com/s/photos/rooftop-sunset<br>3. https://pixabay.com/images/search/rooftop%20terrace/<br>4. https://unsplash.com/photos/group-of-happy-friends-having-party-on-rooftop-zeeCFxWPcnU<br>5. https://unsplash.com/s/photos/rooftop-party |
+| **Alternative** | Instagram: @riadayour, @coworksurf, @amayoursurf (rooftop lounging scenes) |
 | **Why It Matters** | Shows "rooftop terraces" mentioned in narrative. Space for community, sunsets, informal gathering. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### LOCKED IN 3D: Luxury Bedroom - En-Suite Comfort
 | Aspect | Details |
 |--------|---------|
 | **Description** | Beautiful riad bedroom: comfortable bed, traditional design, ensuite bathroom visible or implied. Clean, warm, inviting. |
-| **Recommended Sources** | Unsplash: "riad bedroom", "moroccan bedroom" |
+| **Recommended Links** | 1. https://unsplash.com/s/photos/luxury-hotel-room<br>2. https://unsplash.com/s/photos/hotel-bedroom<br>3. https://unsplash.com/s/photos/luxury-room<br>4. https://unsplash.com/s/photos/hotel-room<br>5. https://unsplash.com/s/photos/luxury-bedroom |
 | **Alternative** | Pexels: "bedroom", "luxury hotel room" |
 | **Why It Matters** | Shows "en-suite rooms" promise. Privacy + luxury. Makes attendees feel comfortable. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### LOCKED IN 3E: Surf Coaching - Action/Learning
 | Aspect | Details |
 |--------|---------|
 | **Description** | Surf lesson in progress: coach in water with 1-3 students, clear water, good light, encouraging atmosphere. Beginner-friendly vibe. |
-| **Recommended Sources** | Unsplash: "surf lesson", "surfing teaching" |
+| **Recommended Links** | 1. https://unsplash.com/s/photos/surf-lesson<br>2. https://www.pexels.com/photo/people-surfing-on-sea-waves-4319752/<br>3. https://www.pexels.com/photo/man-surfing-on-waves-390051/<br>4. https://www.pexels.com/search/surfing%20wave/<br>5. https://unsplash.com/s/photos/surfing |
 | **Alternative** | Instagram: @flosurfmorocco, @amayoursurf (coaching shots) |
 | **Why It Matters** | Brings "daily surf" to life. Shows Reda's expertise. Inclusive (beginners welcome). |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### LOCKED IN 3F: Yoga Session - Wellness
 | Aspect | Details |
 |--------|---------|
 | **Description** | Yoga class on rooftop or beach at sunrise/sunset. 3-5 people in peaceful poses. Ocean or nature backdrop. Serene, focused. |
-| **Recommended Sources** | Unsplash: "yoga sunset", "outdoor yoga", "yoga retreat" |
+| **Recommended Links** | 1. https://unsplash.com/s/photos/sunrise-yoga<br>2. https://unsplash.com/s/photos/yoga-sun<br>3. https://www.freepik.com/free-photos-vectors/yoga-sunset<br>4. https://unsplash.com/s/photos/yoga-sunset<br>5. https://unsplash.com/s/photos/yoga-meditation |
 | **Alternative** | Instagram: @amayoursurf, yoga retreat hashtags #yogamoroc #sunsetyo |
 | **Why It Matters** | Shows daily yoga promise. Health/wellness angle. Peaceful counterpoint to action. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ---
 
@@ -147,37 +147,37 @@ This document organizes all visual assets needed for the landing page, grouped b
 | Aspect | Details |
 |--------|---------|
 | **Description** | 1-2 people working on laptops on a rooftop terrace with ocean view. Natural light, comfortable seating, coffee/water nearby. Focused but relaxed. |
-| **Recommended Sources** | Instagram: @sun-desk, @coworksurf (workspace photos) |
-| **Alternative** | Unsplash: "digital nomad rooftop", "laptop ocean view", "remote work" |
+| **Recommended Links** | 1. https://www.pexels.com/photo/close-up-of-a-laptop-in-a-workspace-8524589/<br>2. https://www.pexels.com/photo/cozy-workspace-with-laptop-and-tea-32063655/<br>3. https://www.pexels.com/photo/laptop-on-a-desk-6177610/<br>4. https://www.pexels.com/photo/minimalist-workspace-with-laptop-and-planner-30234382/<br>5. https://www.pexels.com/photo/light-workplace-with-laptop-in-office-6177607/ |
+| **Alternative** | Instagram: @sun-desk, @coworksurf (workspace photos) |
 | **Why It Matters** | Visually supports "Build your AI-powered Second Brain." Shows practical work happening in beautiful space. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### COCREATE 4B: Group Workshop/Brainstorm
 | Aspect | Details |
 |--------|---------|
 | **Description** | Small group (4-6 people) in workshop setting: sitting on cushions/chairs in circle, notebooks/laptops visible, engaged discussion, whiteboards/flip charts optional. |
-| **Recommended Sources** | Unsplash: "workshop group", "team brainstorm", "retreat discussion" |
+| **Recommended Links** | 1. https://www.pexels.com/photo/group-of-people-in-conference-room-1181304/<br>2. https://www.pexels.com/photo/a-group-of-people-having-a-meeting-in-the-office-6248989/<br>3. https://www.pexels.com/photo/a-team-brainstorming-and-having-a-meeting-7793645/<br>4. https://www.pexels.com/search/brainstorming/<br>5. https://www.pexels.com/photo/group-of-people-having-a-discussion-3931500/ |
 | **Alternative** | Instagram: workshop/training retreat accounts |
 | **Why It Matters** | Shows co-creation in action. "You shape what it becomes." Collaborative energy. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### COCREATE 4C: Diverse Hands Together - Collaboration
 | Aspect | Details |
 |--------|---------|
 | **Description** | Close-up of 3-4 different hands meeting in the middle (like team stack). Diverse skin tones, casual setting. Unity/collaboration symbol. |
-| **Recommended Sources** | Unsplash: "team hands", "diverse hands", "collaboration hands" |
+| **Recommended Links** | 1. https://unsplash.com/s/photos/collaboration<br>2. https://unsplash.com/s/photos/teamwork<br>3. https://unsplash.com/s/photos/team-collaboration<br>4. https://unsplash.com/s/photos/diverse-team<br>5. https://unsplash.com/s/photos/people-working-together |
 | **Alternative** | Pexels: "teamwork", "hands together" |
 | **Why It Matters** | Reinforces inclusivity and community. "20 carefully selected founders" idea. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### COCREATE 4D: Ideas/Thinking Visual - Whiteboard or Notebook
 | Aspect | Details |
 |--------|---------|
 | **Description** | Hands writing on whiteboard/notebook with ideas, sketches, diagrams. Or close-up of notes/planning. Creative, ideation energy. |
-| **Recommended Sources** | Unsplash: "whiteboard ideas", "brainstorm notes", "planning" |
+| **Recommended Links** | 1. https://unsplash.com/s/photos/brainstorm<br>2. https://unsplash.com/s/photos/planning<br>3. https://unsplash.com/s/photos/creative-work<br>4. https://unsplash.com/s/photos/writing<br>5. https://www.pexels.com/search/brainstorming/ |
 | **Alternative** | Pexels: "writing", "creative work" |
 | **Why It Matters** | Represents the "Second Brain" concept visually. Building/creating/organizing. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ---
 
@@ -188,28 +188,28 @@ This document organizes all visual assets needed for the landing page, grouped b
 | Aspect | Details |
 |--------|---------|
 | **Description** | Group of 8-12 diverse people on rooftop/by pool, genuine smiles, arms around shoulders, celebratory vibe. Feels like they accomplished something together. |
-| **Recommended Sources** | Instagram: @flosurfmorocco, @amayoursurf (group retreats end-of-retreat shots) |
-| **Alternative** | Unsplash: "group celebration", "happy team" |
+| **Recommended Links** | 1. https://unsplash.com/photos/group-of-happy-people-or-friends-having-fun-at-party-and-smiling-MaVmU9TeOmo<br>2. https://unsplash.com/s/photos/happy-group<br>3. https://unsplash.com/s/photos/people-celebrating<br>4. https://unsplash.com/s/photos/group-of-happy-people<br>5. https://unsplash.com/s/photos/friends-party |
+| **Alternative** | Instagram: @flosurfmorocco, @amayoursurf (group retreats end-of-retreat shots) |
 | **Why It Matters** | Shows the outcome: "Network of 19 founders who get it." Proof of community. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### OUTCOMES 5B: Surfboard Joy - Accomplishment
 | Aspect | Details |
 |--------|---------|
 | **Description** | Person holding surfboard with genuine smile/confidence. Beach or rooftop. Can show improvement/progress. Happy, proud moment. |
-| **Recommended Sources** | Instagram: @amayoursurf, @flosurfmorocco (participant success moments) |
-| **Alternative** | Unsplash: "surfboard joy", "surfing success" |
+| **Recommended Links** | 1. https://unsplash.com/s/photos/surfing<br>2. https://www.pexels.com/photo/man-surfing-on-waves-390051/<br>3. https://www.pexels.com/search/surfing%20wave/<br>4. https://unsplash.com/s/photos/surf-lesson<br>5. https://www.pexels.com/photo/people-surfing-on-sea-waves-4319752/ |
+| **Alternative** | Instagram: @amayoursurf, @flosurfmorocco (participant success moments) |
 | **Why It Matters** | Visually represents "Surf skills you didn't have before." Achievement. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### OUTCOMES 5C: Person with Laptop - Clarity & Building
 | Aspect | Details |
 |--------|---------|
 | **Description** | Solo shot of person at laptop, natural lighting, looking focused and satisfied. Coffee/workspace visible. "Ready to build" energy. |
-| **Recommended Sources** | Unsplash: "person working laptop", "digital creator", "focused work" |
+| **Recommended Links** | 1. https://www.pexels.com/photo/close-up-of-a-laptop-in-a-workspace-8524589/<br>2. https://www.pexels.com/photo/cozy-workspace-with-laptop-and-tea-32063655/<br>3. https://www.pexels.com/photo/laptop-on-a-desk-6177610/<br>4. https://www.pexels.com/photo/minimalist-workspace-with-laptop-and-planner-30234382/<br>5. https://unsplash.com/s/photos/working-on-laptop |
 | **Alternative** | Pexels: "laptop work", "productivity" |
 | **Why It Matters** | Represents "Clarity on what you're building next." Second Brain ready to use. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ---
 
@@ -220,46 +220,46 @@ This document organizes all visual assets needed for the landing page, grouped b
 | Aspect | Details |
 |--------|---------|
 | **Description** | Traditional Moroccan tea or coffee service: ornate glasses, silver teapot, maybe herbs/dates. Cultural, warm. |
-| **Recommended Sources** | Unsplash: "moroccan tea", "mint tea" |
+| **Recommended Links** | 1. https://unsplash.com/s/photos/moroccan-tea<br>2. https://unsplash.com/s/photos/mint-tea<br>3. https://unsplash.com/s/photos/tea<br>4. https://unsplash.com/s/photos/moroccan-culture<br>5. https://pixabay.com/images/search/tea%20ceremony/ |
 | **Alternative** | Pexels: "tea ceremony", "moroccan culture" |
 | **Why It Matters** | Supports "Moroccan culture immersion." Comfort, hospitality, downtime. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### SUPPORT 6B: Moroccan Food/Meals
 | Aspect | Details |
 |--------|---------|
 | **Description** | Beautiful Moroccan dish: tagine, couscous, fresh ingredients. Colorful, appetizing, communal table optional. |
-| **Recommended Sources** | Unsplash: "moroccan food", "tagine", "couscous" |
+| **Recommended Links** | 1. https://unsplash.com/s/photos/moroccan-food<br>2. https://unsplash.com/s/photos/tagine<br>3. https://unsplash.com/s/photos/food<br>4. https://pexels.com/search/moroccan%20cuisine/<br>5. https://pixabay.com/images/search/moroccan%20food/ |
 | **Alternative** | Pexels: "moroccan cuisine", "ethnic food" |
 | **Why It Matters** | Supports "All meals included" + culture immersion. Sensory appeal. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### SUPPORT 6C: Sunset Over Water
 | Aspect | Details |
 |--------|---------|
 | **Description** | Pure sunset scene: sky, water, minimal objects. Golden/orange tones. Peaceful, contemplative. |
-| **Recommended Sources** | Unsplash: "sunset ocean", "golden hour" |
-| **Alternative** | Pexels: "sunset" |
+| **Recommended Links** | 1. https://www.pexels.com/photo/calm-blue-sea-during-golden-hour-1212600/<br>2. https://www.pexels.com/photo/golden-hour-on-beach-261292/<br>3. https://www.pexels.com/photo/body-of-water-during-golden-hour-189349/<br>4. https://www.pexels.com/photo/golden-sunset-over-ocean-horizon-29825595/<br>5. https://www.pexels.com/photo/golden-sunset-over-ocean-waves-28873987/ |
+| **Alternative** | Pexels: "sunset", "golden hour" |
 | **Why It Matters** | Visual filler. Reinforces "golden" vibe of retreat. Can be used as full-width background. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### SUPPORT 6D: Local People/Portraits - Authenticity
 | Aspect | Details |
 |--------|---------|
 | **Description** | Portrait(s) of local Moroccan people: warm, genuine, smiling. Shows humanity, community, culture. |
-| **Recommended Sources** | Unsplash: "moroccan people", "local culture", "portrait morocco" |
+| **Recommended Links** | 1. https://www.pexels.com/search/portrait/<br>2. https://www.pexels.com/search/face%20portrait/<br>3. https://unsplash.com/s/photos/human-face<br>4. https://www.pexels.com/search/faces%20of%20people/<br>5. https://pixabay.com/images/search/face/ |
 | **Alternative** | Pexels: "faces", "people portrait" |
 | **Why It Matters** | Reinforces "Reda's your guide" + "Moroccan culture immersion." Authentic. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ### SUPPORT 6E: Mountain/Nature Landscape
 | Aspect | Details |
 |--------|---------|
 | **Description** | Atlas Mountains or Morocco landscape: green, epic scale, hiking trail optional. Nature, adventure, beauty. |
-| **Recommended Sources** | Unsplash: "atlas mountains", "morocco hiking", "moroccan landscape" |
+| **Recommended Links** | 1. https://unsplash.com/s/photos/mountain-landscape<br>2. https://unsplash.com/s/photos/nature-mountain<br>3. https://unsplash.com/s/photos/mountain-nature<br>4. https://unsplash.com/s/photos/mountains<br>5. https://unsplash.com/s/photos/landscape-mountain |
 | **Alternative** | Pexels: "mountains", "nature landscape" |
 | **Why It Matters** | Contextualizes location. Adventure + wellness angle. Can be full-width background. |
-| **Status** | 🔲 Sourced |
+| **Status** | ✅ Links Found |
 
 ---
 
@@ -270,28 +270,28 @@ This document organizes all visual assets needed for the landing page, grouped b
 | Aspect | Details |
 |--------|---------|
 | **Description** | Iwo working, teaching, or casual portrait. Warm, approachable, intelligent energy. Location: rooftop/workshop ideal. |
-| **Recommended Sources** | Ask Iwo directly for headshot + lifestyle photo |
+| **Recommended Links** | 1. [Contact Iwo directly for personal photo] <br> Stock alternatives: 2. https://unsplash.com/s/photos/teaching<br>3. https://unsplash.com/s/photos/mentor<br>4. https://pexels.com/search/portrait/<br>5. https://unsplash.com/s/photos/workshop |
 | **Alternative** | If unavailable, use generic "AI educator" or "tech mentor" stock photo |
 | **Why It Matters** | Builds credibility for "Second Brain" teaching. Shows real person. |
-| **Status** | 🔲 Sourced |
+| **Status** | ⏳ Awaiting Direct Contact |
 
 ### TEAM TB: Michał - Portrait or in Hospitality Context
 | Aspect | Details |
 |--------|---------|
 | **Description** | Michał at the riad, welcoming guests, or casual portrait. Hospitality/warmth energy. |
-| **Recommended Sources** | Ask Michał directly for photo |
+| **Recommended Links** | 1. [Contact Michał directly for personal photo] <br> Stock alternatives: 2. https://unsplash.com/s/photos/hospitality<br>3. https://unsplash.com/s/photos/host<br>4. https://pexels.com/search/welcome/<br>5. https://unsplash.com/s/photos/welcoming |
 | **Alternative** | If unavailable, use generic "hospitality host" stock photo |
 | **Why It Matters** | Builds credibility for "tech + hospitality" angle. Shows real person. |
-| **Status** | 🔲 Sourced |
+| **Status** | ⏳ Awaiting Direct Contact |
 
 ### TEAM TC: Reda - Portrait or Surfing/Local Expert
 | Aspect | Details |
 |--------|---------|
 | **Description** | Reda with surfboard, at the riad, or casual portrait. Local, expert, authentic energy. |
-| **Recommended Sources** | Ask Reda directly for photo |
+| **Recommended Links** | 1. [Contact Reda directly for personal photo] <br> Stock alternatives: 2. https://unsplash.com/s/photos/surfer<br>3. https://unsplash.com/s/photos/local<br>4. https://pexels.com/search/surfing/<br>5. https://unsplash.com/s/photos/expert |
 | **Alternative** | If unavailable, use generic "local surfer" or "riad owner" stock photo |
 | **Why It Matters** | Builds credibility for "grew up on these waves" + local guide role. Shows real person. |
-| **Status** | 🔲 Sourced |
+| **Status** | ⏳ Awaiting Direct Contact |
 
 ---
 
